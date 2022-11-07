@@ -1,10 +1,15 @@
 <template>
   <div class="whole-page">
+    <div class="navbar">
+      <span @click="clickPlayer" id="player">Player</span>
+      <span @click="clickTeam" id="team">Team</span>
+
+    </div>
     <div class="player">
       <div class="player-detail">
         <div class="avatar-image">
           <img class="team-icon" width="30" height="30" src="../assets/Team-Logo/DRX.png">
-          <img class="avatar" src="../assets/Player/Deft.png">
+          <img @click="redirect" class="avatar" src="../assets/Player/Deft.png">
         </div>
 
         <div class="player-info">
@@ -86,7 +91,7 @@
       <div class="player-detail">
         <div class="avatar-image">
           <img class="team-icon" width="30" height="30" src="../assets/Team-Logo/RNG.png">
-          <img class="avatar" src="../assets/Player/GALA.png">
+          <img  class="avatar" src="../assets/Player/GALA.png">
         </div>
 
         <div class="player-info">
@@ -248,9 +253,6 @@
         </div>
       </div>
     </div>
-
-    <div id="container" style="height: 500px"></div>
-    <div id="mycontainer"></div>
   </div>
 </template>
 <script >
@@ -267,6 +269,18 @@ export default {
     this.drawLine();
   },
   methods: {
+    clickPlayer() {
+      document.getElementById("player").style.color = "black";
+      document.getElementById("team").style.color = "#a8abb3";
+    },
+    clickTeam() {
+      document.getElementById("player").style.color = "#a8abb3";
+      document.getElementById("team").style.color = "black";
+      this.$router.push({name:'team'})
+    },
+    redirect() {
+      this.$router.push({name:'about'})
+    },
     drawLine() {
       // 基于刚刚准备好的 DOM 容器，初始化 EChart 实例
       // let myChart = this.$echarts.init(document.getElementById('myChart'))
@@ -608,6 +622,22 @@ export default {
   padding: 0;
   box-sizing: border-box;
 }
+.navbar {
+  display: flex;
+  align-items: center;
+  background: white;
+  height: 50px;
+  color: #a8abb3;
+  margin-bottom: 10px;
+
+
+}
+
+#player {
+ margin-left: 10px;
+ margin-right: 20px;
+ color:black;
+}
 
 .data-progress {
   width: 300px;
@@ -733,7 +763,7 @@ body {
   background-color: white;
   display: flex;
   padding: 30px;
-  margin: 30px;
+  margin:30px 0;
   margin-bottom: 10px;
 }
 

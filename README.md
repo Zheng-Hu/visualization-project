@@ -1,4 +1,4 @@
-# visualization-project
+# project
 
 ## Project setup
 ```
