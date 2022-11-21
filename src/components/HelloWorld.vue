@@ -14,7 +14,7 @@
 
         <div class="player-info">
           <div class="name">Deft</div>
-          <div class="score">LFL Score：39.7</div>
+          <div class="score">Score：39.7</div>
           <div class="split-line"></div>
           <div class="team">Team：DRX</div>
           <div class="pos">Role：ADC</div>
@@ -84,6 +84,79 @@
             </div>
           </div>
         </div>
+        <div class="championbox">
+         <div class="champion-winrate">
+          <img class="championIcon" width="40" height="40" src="../assets/champion/110.png">
+            <div class="win-rate" style="margin-left: 20px; margin-top: 10px; width: 250px;">
+            <div class="progress-top-text" >
+              <div class="l-text">
+                <span class="title">100.0% </span>
+                <span class="sub-title">Win Ratio</span>
+              </div>
+              <div class="r-text">4 Wins 0 Losses</div>
+            </div>
+            <div class="ivu-progress ivu-progress-normal">
+              <div class="ivu-progress-outer">
+                <div class="ivu-progress-inner">
+                  <div class="ivu-progress-bg" style="width: 100%; height: 10px; background-color: rgb(13, 126, 255);">
+                  </div>
+                  <div class="ivu-progress-success-bg" style="width: 0%; height: 10px;"></div>
+                </div>
+
+              </div>
+
+            </div>
+          </div>
+          </div>
+         
+          <div class="champion-winrate">
+          <img class="championIcon" width="40" height="40" src="../assets/champion/Caitlyn.png">
+            <div class="win-rate" style="margin-left: 20px; margin-top: 10px; width: 250px;">
+            <div class="progress-top-text" >
+              <div class="l-text">
+                <span class="title">100.0% </span>
+                <span class="sub-title">Win Ratio</span>
+              </div>
+              <div class="r-text">4 Wins 0 Losses</div>
+            </div>
+            <div class="ivu-progress ivu-progress-normal">
+              <div class="ivu-progress-outer">
+                <div class="ivu-progress-inner">
+                  <div class="ivu-progress-bg" style="width: 100%; height: 10px; background-color: rgb(13, 126, 255);">
+                  </div>
+                  <div class="ivu-progress-success-bg" style="width: 0%; height: 10px;"></div>
+                </div>
+
+              </div>
+
+            </div>
+          </div>
+          </div>
+          <div class="champion-winrate">
+          <img class="championIcon" width="40" height="40" src="../assets/champion/MissFortune.png">
+            <div class="win-rate" style="margin-left: 20px; margin-top: 10px; width: 250px;">
+            <div class="progress-top-text" >
+              <div class="l-text">
+                <span class="title">40.0% </span>
+                <span class="sub-title">Win Ratio</span>
+              </div>
+              <div class="r-text">2 Wins 3 Losses</div>
+            </div>
+            <div class="ivu-progress ivu-progress-normal">
+              <div class="ivu-progress-outer">
+                <div class="ivu-progress-inner">
+                  <div class="ivu-progress-bg" style="width: 40%; height: 10px; background-color: rgb(13, 126, 255);">
+                  </div>
+                  <div class="ivu-progress-success-bg" style="width: 0%; height: 10px;"></div>
+                </div>
+
+              </div>
+
+            </div>
+          </div>
+          </div>
+        </div>
+        <img class="playerType" width="80" height="80" src="../assets/playerTypeIcon/Sword.png">
       </div>
     </div>
 
@@ -96,7 +169,7 @@
 
         <div class="player-info">
           <div class="name">GALA</div>
-          <div class="score">LFL Score：39.3</div>
+          <div class="score">Score：39.3</div>
           <div class="split-line"></div>
           <div class="team">Team：RNG</div>
           <div class="pos">Role：ADC</div>
@@ -105,6 +178,7 @@
         <div id="myChart2" style="margin-left:40px; width: 220px; height: 220px"></div>
         <div id="myPieChart2" style="margin-left:40px; width:220px; height:220px"></div>
         <div class="data-progress">
+          
           <div class="win-rate">
             <div class="progress-top-text">
               <div class="l-text">
@@ -166,6 +240,79 @@
             </div>
           </div>
         </div>
+        <div class="championbox">
+         <div class="champion-winrate">
+          <img class="championIcon" width="40" height="40" src="../assets/champion/248.png">
+            <div class="win-rate" style="margin-left: 20px; margin-top: 10px; width: 250px;">
+            <div class="progress-top-text" >
+              <div class="l-text">
+                <span class="title">60.0% </span>
+                <span class="sub-title">Win Ratio</span>
+              </div>
+              <div class="r-text">3 Wins 2 Losses</div>
+            </div>
+            <div class="ivu-progress ivu-progress-normal">
+              <div class="ivu-progress-outer">
+                <div class="ivu-progress-inner">
+                  <div class="ivu-progress-bg" style="width: 60%; height: 10px; background-color: rgb(13, 126, 255);">
+                  </div>
+                  <div class="ivu-progress-success-bg" style="width: 0%; height: 10px;"></div>
+                </div>
+
+              </div>
+
+            </div>
+          </div>
+          </div>
+         
+          <div class="champion-winrate">
+          <img class="championIcon" width="40" height="40" src="../assets/champion/145.png">
+            <div class="win-rate" style="margin-left: 20px; margin-top: 10px; width: 250px;">
+            <div class="progress-top-text" >
+              <div class="l-text">
+                <span class="title">50.0% </span>
+                <span class="sub-title">Win Ratio</span>
+              </div>
+              <div class="r-text">2 Wins 2 Losses</div>
+            </div>
+            <div class="ivu-progress ivu-progress-normal">
+              <div class="ivu-progress-outer">
+                <div class="ivu-progress-inner">
+                  <div class="ivu-progress-bg" style="width: 50%; height: 10px; background-color: rgb(13, 126, 255);">
+                  </div>
+                  <div class="ivu-progress-success-bg" style="width: 0%; height: 10px;"></div>
+                </div>
+
+              </div>
+
+            </div>
+          </div>
+          </div>
+          <div class="champion-winrate">
+          <img class="championIcon" width="40" height="40" src="../assets/champion/Tristana.png">
+            <div class="win-rate" style="margin-left: 20px; margin-top: 10px; width: 250px;">
+            <div class="progress-top-text" >
+              <div class="l-text">
+                <span class="title">75.0% </span>
+                <span class="sub-title">Win Ratio</span>
+              </div>
+              <div class="r-text">3 Wins 1 Losses</div>
+            </div>
+            <div class="ivu-progress ivu-progress-normal">
+              <div class="ivu-progress-outer">
+                <div class="ivu-progress-inner">
+                  <div class="ivu-progress-bg" style="width: 75%; height: 10px; background-color: rgb(13, 126, 255);">
+                  </div>
+                  <div class="ivu-progress-success-bg" style="width: 0%; height: 10px;"></div>
+                </div>
+
+              </div>
+
+            </div>
+          </div>
+          </div>
+        </div>
+        <img class="playerType" width="80" height="80" src="../assets/playerTypeIcon/Assist.png">
       </div>
     </div>
 
@@ -178,7 +325,7 @@
 
         <div class="player-info">
           <div class="name">Upset</div>
-          <div class="score">LFL Score：32.0</div>
+          <div class="score">Score：32.0</div>
           <div class="split-line"></div>
           <div class="team">Team：Fantic</div>
           <div class="pos">Role：ADC</div>
@@ -248,6 +395,79 @@
             </div>
           </div>
         </div>
+        <div class="championbox">
+         <div class="champion-winrate">
+          <img class="championIcon" width="40" height="40" src="../assets/champion/248.png">
+            <div class="win-rate" style="margin-left: 20px; margin-top: 10px; width: 250px;">
+            <div class="progress-top-text" >
+              <div class="l-text">
+                <span class="title">50.0% </span>
+                <span class="sub-title">Win Ratio</span>
+              </div>
+              <div class="r-text">2 Wins 2 Losses</div>
+            </div>
+            <div class="ivu-progress ivu-progress-normal">
+              <div class="ivu-progress-outer">
+                <div class="ivu-progress-inner">
+                  <div class="ivu-progress-bg" style="width: 50%; height: 10px; background-color: rgb(13, 126, 255);">
+                  </div>
+                  <div class="ivu-progress-success-bg" style="width: 0%; height: 10px;"></div>
+                </div>
+
+              </div>
+
+            </div>
+          </div>
+          </div>
+         
+          <div class="champion-winrate">
+          <img class="championIcon" width="40" height="40" src="../assets/champion/Kalista.png">
+            <div class="win-rate" style="margin-left: 20px; margin-top: 10px; width: 250px;">
+            <div class="progress-top-text" >
+              <div class="l-text">
+                <span class="title">50.0% </span>
+                <span class="sub-title">Win Ratio</span>
+              </div>
+              <div class="r-text">1 Wins 1 Losses</div>
+            </div>
+            <div class="ivu-progress ivu-progress-normal">
+              <div class="ivu-progress-outer">
+                <div class="ivu-progress-inner">
+                  <div class="ivu-progress-bg" style="width: 50%; height: 10px; background-color: rgb(13, 126, 255);">
+                  </div>
+                  <div class="ivu-progress-success-bg" style="width: 0%; height: 10px;"></div>
+                </div>
+
+              </div>
+
+            </div>
+          </div>
+          </div>
+          <div class="champion-winrate">
+          <img class="championIcon" width="40" height="40" src="../assets/champion/Lucian.png">
+            <div class="win-rate" style="margin-left: 20px; margin-top: 10px; width: 250px;">
+            <div class="progress-top-text" >
+              <div class="l-text">
+                <span class="title">50.0% </span>
+                <span class="sub-title">Win Ratio</span>
+              </div>
+              <div class="r-text">1 Wins 1 Losses</div>
+            </div>
+            <div class="ivu-progress ivu-progress-normal">
+              <div class="ivu-progress-outer">
+                <div class="ivu-progress-inner">
+                  <div class="ivu-progress-bg" style="width: 50%; height: 10px; background-color: rgb(13, 126, 255);">
+                  </div>
+                  <div class="ivu-progress-success-bg" style="width: 0%; height: 10px;"></div>
+                </div>
+
+              </div>
+
+            </div>
+          </div>
+          </div>
+        </div>
+        <img class="playerType" width="80" height="80" src="../assets/playerTypeIcon/Shield.png">
         <div>
 
         </div>
@@ -301,14 +521,19 @@ export default {
           ]
         },
         radius: '25%',
+        color:['#5470c6', '#ee6666'],
         series: [
           {
             name: 'Budget vs spending',
             type: 'radar',
             data: [
               {
-                value: [6000, 8000, 20000, 35000, 50000, 18000],
+                value: [6000, 10000, 23000, 35000, 50000, 18000],
                 name: 'Allocated Budget'
+              },
+              {
+                value: [3000, 8000 , 20000, 35000, 40000, 18000],
+                name: 'Average'
               }
             ]
           }
@@ -328,6 +553,7 @@ export default {
           ]
         },
         radius: '25%',
+        color:['#5470c6', '#ee6666'],
         series: [
           {
             name: 'Budget vs spending',
@@ -336,6 +562,10 @@ export default {
               {
                 value: [4000, 10000, 13000, 35000, 40000, 18000],
                 name: 'Allocated Budget'
+              },
+              {
+                value: [3000, 8000 , 20000, 35000, 40000, 18000],
+                name: 'Average'
               }
             ]
           }
@@ -355,6 +585,7 @@ export default {
           ]
         },
         radius: '25%',
+        color:['#5470c6', '#ee6666'],
         series: [
           {
             name: 'Budget vs spending',
@@ -363,6 +594,10 @@ export default {
               {
                 value: [5000, 15000, 18000, 35000, 40000, 18000],
                 name: 'Allocated Budget'
+              },
+              {
+                value: [3000, 8000 , 20000, 35000, 40000, 18000],
+                name: 'Average'
               }
             ]
           }
@@ -622,6 +857,27 @@ export default {
   padding: 0;
   box-sizing: border-box;
 }
+
+.championbox{
+  display: flex;
+  flex-direction:column;
+  margin-top: 20px;
+  margin-left: 62px;
+}
+
+.champion-winrate{
+  display: flex;
+  flex-direction: row;
+}
+
+.championIcon{
+  margin-top:20px;
+}
+.playerType{
+  margin-left: 80px;
+  margin-top: 70px;
+}
+
 .navbar {
   display: flex;
   align-items: center;

@@ -11,7 +11,7 @@
 
                     <img class="team-avatar" src="../assets/Team-Logo/T1.png">
                     <div class="name">T1</div>
-                    <div class="score"> LFL
+                    <div class="score"> 
                         <span> Score</span>:196.1
                     </div>
                 </div>
@@ -88,9 +88,9 @@ export default {
                         type: 'radar',
                         data: [
                             {
-                                value: [6000, 8000, 20000, 35000, 50000, 18000],
+                                value: [5000, 8000, 20000, 35000, 50000, 18000],
                                 name: 'Allocated Budget'
-                            }
+                            },
                         ]
                     }
                 ]
