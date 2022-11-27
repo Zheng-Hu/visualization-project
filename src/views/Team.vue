@@ -24,9 +24,12 @@
                     <img class="avatar" src="../assets/Player/Faker.png">
 
                 </div>
-                <div id="myChart1" style="margin-left:40px; width: 400px; height: 400px"></div>
-                <div id="myPieChart1" style="margin-left:40px; width:400px; height:400px"></div>
-                <div id="chart3" style="margin-left:40px; width:400px; height:400px"></div>
+                <div id="myChart1" style="margin-left:40px; width: 600px; height: 500px"></div>
+                <div style="position:absolute; left:940px; top:200px">
+                13 wins 5 lose
+                </div>
+                <div id="myPieChart1" style="margin-left:40px; width:500px; height:500px"></div>
+                <div id="chart3" style="margin-left:40px; width:500px; height:500px"></div>
             </div>
         </div>
 
@@ -78,7 +81,7 @@ export default {
                         { name: 'Gold', max: 30000 },
                         { name: 'Drakes', max: 38000 },
                         { name: 'Tower', max: 52000 },
-                        { name: 'First Blood', max: 25000 }
+                        { name: 'First Kill', max: 25000 }
                     ]
                 },
                 radius: '25%',
@@ -122,9 +125,10 @@ export default {
                                 show: false
                             }
                         },
+
                         data: [
                             {   // 数据值
-                                value: 400,
+                                value: 13,
                                 // 数据项名称
                                 name: 'Win Ratio',
                                 //该数据项是否被选中
@@ -143,7 +147,7 @@ export default {
                                 },
                             },
                             {
-                                value: 100,
+                                value: 5,
                                 label: {
                                     normal: {
                                         show: false,
@@ -167,7 +171,7 @@ export default {
 
            var option2 = {
                 title: {
-                    text: 'Dmage',
+                    text: 'Damage',
                 
                     left: 'center'
                 },

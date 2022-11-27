@@ -20,21 +20,21 @@
           <div class="pos">Role：ADC</div>
 
         </div>
-        <div id="myChart1" style="margin-left:40px; width: 220px; height: 220px"></div>
+        <div id="myChart1" style="margin-left:40px; width: 460px; height: 212px"></div>
         <div id="myPieChart1" style="margin-left:40px; width:220px; height:220px"></div>
         <div class="data-progress">
           <div class="win-rate">
             <div class="progress-top-text">
               <div class="l-text">
-                <span class="title">50.0% </span>
+                <span class="title">73.1% </span>
                 <span class="sub-title">Win Ratio</span>
               </div>
-              <div class="r-text">3 Wins 3 Losses</div>
+              <div class="r-text">19 Wins 7 Losses</div>
             </div>
             <div class="ivu-progress ivu-progress-normal">
               <div class="ivu-progress-outer">
                 <div class="ivu-progress-inner">
-                  <div class="ivu-progress-bg" style="width: 50%; height: 10px; background-color: rgb(13, 126, 255);">
+                  <div class="ivu-progress-bg" style="width: 73.1%; height: 10px; background-color: rgb(13, 126, 255);">
                   </div>
                   <div class="ivu-progress-success-bg" style="width: 0%; height: 10px;"></div>
                 </div>
@@ -46,10 +46,10 @@
           <div class="join-rate">
             <div class="progress-top-text">
               <div class="l-text">
-                <span class="title">76.8% </span>
+                <span class="title">61.4% </span>
                 <span class="sub-title">KP</span>
                 <span class="sub-titles">
-                  Rank Top <span class="light-text">13</span>
+                  Rank Top <span class="light-text">93</span>
                 </span>
               </div>
               <div class="r-text"></div>
@@ -57,7 +57,7 @@
             <div class="ivu-progress ivu-progress-normal">
               <div class="ivu-progress-outer">
                 <div class="ivu-progress-inner">
-                  <div class="ivu-progress-bg" style="width: 76.8%; height: 10px; background-color: rgb(13, 126, 255);">
+                  <div class="ivu-progress-bg" style="width: 61.4%; height: 10px; background-color: rgb(13, 126, 255);">
                   </div>
                   <div class="ivu-progress-success-bg" style="width: 0%; height: 10px;"></div>
                 </div>
@@ -156,7 +156,7 @@
           </div>
           </div>
         </div>
-        <img class="playerType" width="80" height="80" src="../assets/playerTypeIcon/Sword.png">
+        <img class="playerType" width="50" height="50" src="../assets/playerTypeIcon/Sword.png">
       </div>
     </div>
 
@@ -175,22 +175,22 @@
           <div class="pos">Role：ADC</div>
 
         </div>
-        <div id="myChart2" style="margin-left:40px; width: 220px; height: 220px"></div>
+        <div id="myChart2" style="margin-left:40px; width: 460px; height: 212px"></div>
         <div id="myPieChart2" style="margin-left:40px; width:220px; height:220px"></div>
         <div class="data-progress">
           
           <div class="win-rate">
             <div class="progress-top-text">
               <div class="l-text">
-                <span class="title">50.0% </span>
+                <span class="title">63.2% </span>
                 <span class="sub-title">Win Ratio</span>
               </div>
-              <div class="r-text">3 Wins 3 Losses</div>
+              <div class="r-text">12 Wins 7 Losses</div>
             </div>
             <div class="ivu-progress ivu-progress-normal">
               <div class="ivu-progress-outer">
                 <div class="ivu-progress-inner">
-                  <div class="ivu-progress-bg" style="width: 50%; height: 10px; background-color: rgb(13, 126, 255);">
+                  <div class="ivu-progress-bg" style="width: 63.2%; height: 10px; background-color: rgb(13, 126, 255);">
                   </div>
                   <div class="ivu-progress-success-bg" style="width: 0%; height: 10px;"></div>
                 </div>
@@ -202,10 +202,10 @@
           <div class="join-rate">
             <div class="progress-top-text">
               <div class="l-text">
-                <span class="title">76.8% </span>
+                <span class="title">67.6% </span>
                 <span class="sub-title">KP</span>
                 <span class="sub-titles">
-                  Rank Top <span class="light-text">13</span>
+                  Rank Top <span class="light-text">55</span>
                 </span>
               </div>
               <div class="r-text"></div>
@@ -225,13 +225,13 @@
           <div class="KDA">
             <div class="progress-top-text">
               <div class="l-text">
-                <span class="title">4.5 </span>
+                <span class="title">7.4 </span>
                 <span class="sub-title">KDA</span>
                 <span class="sub-titles">
-                  Rank Top <span class="light-text">30</span>
+                  Rank Top <span class="light-text">7</span>
                 </span>
               </div>
-              <div class="r-text">32/14/31</div>
+              <div class="r-text">87/27/112</div>
             </div>
             <div data-v-6207deb0="" class="kda-progress-bar">
               <div data-v-6207deb0="" class="k-bar" style="width: 41.56%;"></div>
@@ -312,7 +312,7 @@
           </div>
           </div>
         </div>
-        <img class="playerType" width="80" height="80" src="../assets/playerTypeIcon/Assist.png">
+        <img class="playerType" width="50" height="50" src="../assets/playerTypeIcon/Assist.png">
       </div>
     </div>
 
@@ -331,16 +331,16 @@
           <div class="pos">Role：ADC</div>
 
         </div>
-        <div id="myChart3" style="margin-left:40px; width: 220px; height: 220px"></div>
+        <div id="myChart3" style="margin-left:40px; width: 460px; height: 212px"></div>
         <div id="myPieChart3" style="margin-left:40px; width:220px; height:220px"></div>
         <div class="data-progress">
           <div class="win-rate">
             <div class="progress-top-text">
               <div class="l-text">
-                <span class="title">50.0% </span>
+                <span class="title">54.5% </span>
                 <span class="sub-title">Win Ratio</span>
               </div>
-              <div class="r-text">3 Wins 3 Losses</div>
+              <div class="r-text">6 Wins 5 Losses</div>
             </div>
             <div class="ivu-progress ivu-progress-normal">
               <div class="ivu-progress-outer">
@@ -467,7 +467,7 @@
           </div>
           </div>
         </div>
-        <img class="playerType" width="80" height="80" src="../assets/playerTypeIcon/Shield.png">
+        <img class="playerType" width="50" height="50" src="../assets/playerTypeIcon/Shield.png">
         <div>
 
         </div>
@@ -642,7 +642,7 @@ export default {
             },
             data: [
               {   // 数据值
-                value: 400,
+                value: 19,
                 // 数据项名称
                 name: 'Win Ratio',
                 //该数据项是否被选中
@@ -661,7 +661,7 @@ export default {
                 },
               },
               {
-                value: 100,
+                value: 7,
                 label: {
                   normal: {
                     show: false,
@@ -679,8 +679,130 @@ export default {
       var myPieChart2 = echarts.init(document.getElementById("myPieChart2"));
       var myPieChart3 = echarts.init(document.getElementById("myPieChart3"));
       option.series[0].data[0].value = 600
+      option = {
+
+        //  提示框组件
+        tooltip: {
+          //是否显示提示框组件，包括提示框浮层和 axisPointe
+          show: false,
+          // 触发类型: item:数据项触发，axis：坐标轴触发
+          trigger: 'item',
+          formatter: "{a} <br/>{b}: {c} ({d}%)"
+        },
+        series: [
+          {
+            // 系列名称，用于tooltip的显示，legend 的图例筛选，在 setOption 更新数据和配置项时用于指定对应的系列。
+
+            type: 'pie',
+            // 饼图的半径，数组的第一项是内半径，第二项是外半径
+            radius: ['50%', '70%'],
+            // 是否启用防止标签重叠策略，默认开启
+            avoidLabelOverlap: false,
+            hoverAnimation: false,
+            // 标签的视觉引导线样式，在 label Role 设置为'outside'的时候会显示视觉引导线
+            labelLine: {
+              normal: {
+                show: false
+              }
+            },
+            data: [
+              {   // 数据值
+                value: 12,
+                // 数据项名称
+                name: 'Win Ratio',
+                //该数据项是否被选中
+                selected: false,
+                // 单个扇区的标签配置
+                label: {
+                  normal: {
+                    // 是显示标签
+                    show: true,
+                    position: 'center',
+                    fontSize: 18,
+                    fontStyle: 'italic',
+                    // 标签内容格式器，支持字符串模板和回调函数两种形式，字符串模板与回调函数返回的字符串均支持用 \n 换行
+                    formatter: '{b}\n{d}%',
+                  }
+                },
+              },
+              {
+                value: 7,
+                label: {
+                  normal: {
+                    show: false,
+
+                  }
+                }
+
+              },
+
+            ]
+          }
+        ]
+      };
       myPieChart2.setOption(option)
       option.series[0].data[0].value = 250
+      option = {
+
+        //  提示框组件
+        tooltip: {
+          //是否显示提示框组件，包括提示框浮层和 axisPointe
+          show: false,
+          // 触发类型: item:数据项触发，axis：坐标轴触发
+          trigger: 'item',
+          formatter: "{a} <br/>{b}: {c} ({d}%)"
+        },
+        series: [
+          {
+            // 系列名称，用于tooltip的显示，legend 的图例筛选，在 setOption 更新数据和配置项时用于指定对应的系列。
+
+            type: 'pie',
+            // 饼图的半径，数组的第一项是内半径，第二项是外半径
+            radius: ['50%', '70%'],
+            // 是否启用防止标签重叠策略，默认开启
+            avoidLabelOverlap: false,
+            hoverAnimation: false,
+            // 标签的视觉引导线样式，在 label Role 设置为'outside'的时候会显示视觉引导线
+            labelLine: {
+              normal: {
+                show: false
+              }
+            },
+            data: [
+              {   // 数据值
+                value: 6,
+                // 数据项名称
+                name: 'Win Ratio',
+                //该数据项是否被选中
+                selected: false,
+                // 单个扇区的标签配置
+                label: {
+                  normal: {
+                    // 是显示标签
+                    show: true,
+                    position: 'center',
+                    fontSize: 18,
+                    fontStyle: 'italic',
+                    // 标签内容格式器，支持字符串模板和回调函数两种形式，字符串模板与回调函数返回的字符串均支持用 \n 换行
+                    formatter: '{b}\n{d}%',
+                  }
+                },
+              },
+              {
+                value: 5,
+                label: {
+                  normal: {
+                    show: false,
+
+                  }
+                }
+
+              },
+
+            ]
+          }
+        ]
+      };
       myPieChart3.setOption(option)
 
       var dom = document.getElementById('container');
@@ -763,7 +885,7 @@ export default {
         },
 
         xAxis: {
-          categories: ['10-16', '10-16', '10-16', '10-11', '10-10', '10-09'],
+          categories: ['10-8', '10-10', '10-11', '10-16', '10-16', '10-16'],
           accessibility: {
             description: 'Months of the year'
           }

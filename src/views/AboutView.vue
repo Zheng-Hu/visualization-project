@@ -116,21 +116,21 @@ export default {
         ],
         series: [
           {
-            name: 'Deft',
+            name: 'Highest',
             type: 'bar',
             emphasis: {
               focus: 'series'
             },
-            data: [320, 332, 301, 334, 390, 330, 320]
+            data: [320, 332, 301, 334, 390, 260, 320]
           },
           {
-            name: 'Highest',
+            name: 'Deft',
             type: 'bar',
             stack: 'Ad',
             emphasis: {
               focus: 'series'
             },
-            data: [120, 132, 101, 134, 90, 230, 210]
+            data: [220, 142, 150, 234, 290, 250, 210]
           },
           {
             name: 'Average',
@@ -139,7 +139,7 @@ export default {
             emphasis: {
               focus: 'series'
             },
-            data: [220, 182, 191, 234, 290, 330, 310]
+            data: [120, 100, 123, 134, 90, 200, 310]
           },
 
 
